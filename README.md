@@ -1,10 +1,8 @@
 __________________••|••
-
      𝙎𝙏𝙍𝙄𝙉𝙂 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙂𝙀𝙉 𝘽𝙊𝙏 🌚❤️
-    
-     
-                   _____________________••||••
-### 🤤 ғᴇᴀᴛᴜʀᴇs
+________________________________________••     
+                   
+ ### 🤤 ғᴇᴀᴛᴜʀᴇs
 
 - [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
 - [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
@@ -15,15 +13,13 @@ __________________••|••
   
   <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/STRING-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-
-
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/VIP_STRING_ROBOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
 ```
+
+
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
 
